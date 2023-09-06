@@ -1,0 +1,2 @@
+# opakovaniGit
+opakovani gitu
